@@ -54,7 +54,9 @@ class PaginaSobre extends StatelessWidget {
         const Divider(height: 32),
         Text('Integrantes', style: Theme.of(context).textTheme.titleMedium),
         const SizedBox(height: 8),
-        const Text('- (preencher com os nomes do grupo)'),
+        const Text('- Guilherme Dalanora Dos Santos'),
+        const Text('- João Pedro Pereira Guerra'),
+        const Text('- Vinicius da Silva Gomes')
       ],
     );
   }
