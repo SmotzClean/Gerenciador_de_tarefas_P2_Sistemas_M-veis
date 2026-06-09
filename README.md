@@ -74,8 +74,6 @@ lib/
 
 ## 👥 Integrantes
 
-- (preencher com os nomes completos)
-
-## 📦 GitHub
-
-Suba esta pasta para um repositório no GitHub e cole o link no `ENTREGA_MOODLE.txt`.
+- Guilherme Dalanora Dos Santos
+- João Pedro Pereira Guerra
+- Vinicius da Silva Gomes
